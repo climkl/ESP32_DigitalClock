@@ -3,6 +3,8 @@
 ### About
 This is a simple digital clock that uses a segment display to show time. Connects to Wifi to sync daily. 
 
+![clock-breadboard](images/clock-breadboard.jpg)
+
 ### Environment
 - PlatformIO with VSCode
 - Using Arduino Environment
